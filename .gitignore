@@ -1,0 +1,10 @@
+# Podaci su preveliki i imaju vlastitu licencu, ne idu u repozitorij
+SDWPF_dataset/
+*.parquet
+*.csv
+*.zip
+
+# Okruženje i privremeni fajlovi
+.venv/
+__pycache__/
+.ipynb_checkpoints/
